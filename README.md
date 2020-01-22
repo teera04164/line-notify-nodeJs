@@ -50,3 +50,4 @@ node index.js
 ## Reference
 
 [LINE Notify API Document](https://notify-bot.line.me/doc/)
+[LINE Sticker ](https://devdocs.line.me/files/sticker_list.pdf)
