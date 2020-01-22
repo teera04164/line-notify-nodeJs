@@ -46,8 +46,8 @@ Line.notifyImage('Hero!!',img)
 ```javascript
 node index.js
 ```
-
+## Line Sticker
+[LINE Sticker ](https://devdocs.line.me/files/sticker_list.pdf)
 ## Reference
 
 [LINE Notify API Document](https://notify-bot.line.me/doc/)
-[LINE Sticker ](https://devdocs.line.me/files/sticker_list.pdf)
