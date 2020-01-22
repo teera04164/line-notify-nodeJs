@@ -15,7 +15,7 @@ https://notify-bot.line.me
 6. Select a chat to send notifications
 7. click Generate token
 8. copy token
-9. past token to .env
+9. paste token to .env
 
 ## Installation
 
